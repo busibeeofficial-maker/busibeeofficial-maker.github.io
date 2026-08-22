@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /age-restricted/
+
+Host: https://flanders.example
+Sitemap: https://flanders.example/sitemap.xml
